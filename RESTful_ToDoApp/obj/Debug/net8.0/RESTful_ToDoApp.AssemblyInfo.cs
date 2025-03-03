@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTful_ToDoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fbbbf63185aaa6271e9300ab8e0194522f7cf4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78fbce4d28cf42a23ba0d8cbad1da6f36e40d0ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTful_ToDoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTful_ToDoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
